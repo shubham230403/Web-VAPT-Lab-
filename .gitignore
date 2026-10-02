@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Runtime database
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploaded files
+target-app/uploads/*
+!target-app/uploads/.gitkeep
+
+# Environment/secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
