@@ -1,0 +1,25 @@
+Web-VAPT-Lab Target Profile
+
+Target:
+http://127.0.0.1:5005
+
+Environment:
+Local authorized security testing lab
+
+Application:
+Flask Web Application
+
+Web Server:
+Werkzeug 3.1.9
+
+Python:
+3.13.15
+
+Mode:
+Intentionally Vulnerable
+
+Assessment Type:
+Web Application Vulnerability Assessment and Penetration Testing
+
+Testing Scope:
+127.0.0.1:5005
